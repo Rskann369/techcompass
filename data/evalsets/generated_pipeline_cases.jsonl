@@ -1,0 +1,63 @@
+{"question": "wireless earbuds", "expected": {"category": "headphones", "sentiment": "neutral", "impact_level": "low", "entities": ["earbuds"], "risk": "neg"}}
+{"question": "smartwatch battery", "expected": {"category": "smartwatch", "sentiment": "neutral", "impact_level": "low", "entities": ["smartwatch"], "risk": "neg"}}
+{"question": "consumer electronics safety", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "medium", "entities": [], "risk": "pos"}}
+{"question": "gaming mouse", "expected": {"category": "accessory", "sentiment": "neutral", "impact_level": "low", "entities": ["mouse"], "risk": "neg"}}
+{"question": "noise cancellation", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "solar charging", "expected": {"category": "battery", "sentiment": "neutral", "impact_level": "low", "entities": ["battery"], "risk": "neg"}}
+{"question": "product review", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "5 wireless earbuds audiophiles", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "have clear favourite between", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sennheiser momentum 5 wireless", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "kyptec lifestyle 610 earbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "samsung galaxy watch ultra", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "garmin claims 320 hours", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "garmin enduro 4 smartwatch", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "garmin smartwatch has battery", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "google fitbit could make", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "cbic seeks industry input", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "share inputs enforcement agencies", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "wirelessearbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "wireless earbuds under 200", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "wireless earbuds can wear", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "any recommendations wireless earbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "can one seem make", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "logitech pro 3 superstrike", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "wireless earbuds under 200", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "wireless earbuds can wear", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "any recommendations wireless earbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "can one seem make", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "hammer wave 2 review", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "xboom grab speaker review", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "chill series wireless speaker", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "unix piper bluetooth speaker", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "cpu not laptop biggest", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "noise cancelling headphones earbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "beats solo 4 drops", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sony 1000 5 50", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "50 off quietcomfort headphones", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sony 1000 6 headphones", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "can smart tvs become", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "addresses privacy concerns over", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "smart life home automation", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "amazon turning smart displays", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "ysk roku hardware collecting", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "due apple privacy lapse", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "hey reddit jimmy lin", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sennheiser momentum true wireless", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sennheiser momentum true wireless", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sony linkbuds clip earbuds", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "sennheiser momentum true wireless", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "prime day may over", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "samsung galaxy watch 9", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "cmf watch 3 pro", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "samsung galaxy watch ultra", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "rugged bose bluetooth speaker", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "marshall emberton iii bluetooth", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "tiny clip bluetooth speaker", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "bose pulls margin move", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "5 bluetooth speakers under", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "cherry xtrfy 63 pro", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "hyperx alloy rise gaming", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "logitech 316 98 review", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "logitech pro 2 rapid", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}
+{"question": "apple rumored smart home", "expected": {"category": "unknown", "sentiment": "neutral", "impact_level": "low", "entities": [], "risk": "neg"}}

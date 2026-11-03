@@ -1,0 +1,5 @@
+{"question":"wireless earbuds","expected":{"category":"headphones","sentiment":"neutral","impact_level":"low","entities":["earbuds"],"risk":"neg"}}
+{"question":"smartwatch battery","expected":{"category":"battery","sentiment":"neutral","impact_level":"low","entities":["battery"],"risk":"neg"}}
+{"question":"solar smartwatch","expected":{"category":"smartwatch","sentiment":"neutral","impact_level":"low","entities":["solar"],"risk":"neg"}}
+{"question":"counterfeit goods","expected":{"sentiment":"neutral","impact_level":"low","entities":[],"risk":"neg"}}
+{"question":"wireless earbuds safety hazard","expected":{"category":"headphones","sentiment":"neutral","impact_level":"low","entities":["earbuds","safety"],"risk":"neg"}}

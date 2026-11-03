@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv311/
+.venv_backup_39/
+
+# Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Local caches
+.cache/
+.huggingface/
+.DS_Store
+
+# Model artifacts
+models/
+
+# Runtime outputs
+outputs/*
+!outputs/.gitkeep
+logs/
+
+# Large local data
+data/rag/*
+!data/rag/.gitkeep
+data/raw/*.parquet
+data/raw/*.json
+data/raw/*.csv
+
+# IDE
+.idea/
+.vscode/

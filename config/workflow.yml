@@ -1,0 +1,45 @@
+name: techcompass_sentiment_workflow
+nodes:
+  - name: ingest
+    fn: node_ingest
+    failure_policy: strict
+    max_retries: 1
+    backoff_seconds: 0.1
+    timeout_seconds: 10
+  - name: normalize
+    fn: node_normalize
+    failure_policy: strict
+    max_retries: 0
+    backoff_seconds: 0
+    timeout_seconds: 10
+  - name: index_retrieve
+    fn: node_index_retrieve
+    failure_policy: continue
+    max_retries: 2
+    backoff_seconds: 0.2
+    timeout_seconds: 30
+  - name: analyze
+    fn: node_analyze
+    failure_policy: strict
+    max_retries: 0
+    backoff_seconds: 0
+    timeout_seconds: 10
+  - name: reason
+    fn: node_reason
+    failure_policy: strict
+    max_retries: 0
+    backoff_seconds: 0
+    timeout_seconds: 10
+  - name: output
+    fn: node_output
+    failure_policy: strict
+    max_retries: 0
+    backoff_seconds: 0
+    timeout_seconds: 10
+  - name: archive
+    fn: node_archive
+    failure_policy: strict
+    max_retries: 1
+    backoff_seconds: 0.2
+
+    timeout_seconds: 10
